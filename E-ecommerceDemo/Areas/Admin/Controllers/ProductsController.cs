@@ -10,6 +10,7 @@ using ecommerceDemo.Models;
 
 namespace ecommerceDemo.Areas.Admin.Controllers
 {
+    //ت
     [Area("Admin")]
     public class ProductsController : Controller
     {
